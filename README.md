@@ -1,6 +1,8 @@
 # flutter_application_2
 
-A new flutter module project.
+Google Developer Training for Flutter.
+
+https://developers.google.com/codelabs/
 
 ## Getting Started
 
